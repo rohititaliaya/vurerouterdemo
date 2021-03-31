@@ -1,0 +1,13 @@
+{
+    "name": "AllUser",
+    "alias": "alluser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AllUser\\Providers\\AllUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

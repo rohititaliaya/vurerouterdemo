@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/About.js": "/js/About.js",
+    "/js/Contact.js": "/js/Contact.js",
+    "/js/Login.js": "/js/Login.js",
+    "/js/Register.js": "/js/Register.js",
+    "/js/Users.js": "/js/Users.js",
+    "/js/AllMans.js": "/js/AllMans.js",
+    "/js/Customers.js": "/js/Customers.js",
+    "/js/Vendors.js": "/js/Vendors.js",
+    "/js/UserRole.js": "/js/UserRole.js",
+    "/css/app.css": "/css/app.css"
+}
